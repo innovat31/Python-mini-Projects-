@@ -1,3 +1,5 @@
+# Percentage calculator using python
+
 def calculate_percentage_of_number(value, percentage):
     """Calculates the percentage of a number."""
     return (value * percentage) / 100
