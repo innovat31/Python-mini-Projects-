@@ -27,6 +27,30 @@ Generates a strong random password with user-defined length.
 
 ---
 
+# 🤖 MoodBot - Python ChatBot
+
+**MoodBot** is a beginner-friendly Python script that asks the user how they're feeling and responds with a message based on their mood.
+
+---
+
+## 🧠 Concepts Used
+
+- **Strings:** The user input is captured as a string and compared to mood options.
+- **`if-elif-else`:** Conditional statements are used to determine which message to print based on the mood entered.
+- **`input()` function:** To capture user interaction via the terminal.
+- **`.lower()` method:** To make the input case-insensitive, allowing flexibility like "Happy", "HAPPY", or "happy".
+
+---
+
+## 💻 How to Run
+
+1. Open a terminal or command prompt.
+2. Run the file:
+   ```bash
+   python mood_bot.py
+
+
+
 
 # Python-mini-Projects-
 This repository includes mini projects/ works I did while completing python.
