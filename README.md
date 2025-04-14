@@ -4,6 +4,7 @@
 Welcome to my collection of **Python mini projects**! These simple and fun projects are built to help me learn and practice Python programming.
 
 Each project is beginner-friendly and showcases core concepts like variables, loops, conditionals, functions, and file handling. More advanced features like modules and object-oriented programming may appear in later projects.
+This is not an well organised list.
 
 ---
 
