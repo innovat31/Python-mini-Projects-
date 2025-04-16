@@ -50,6 +50,38 @@ Generates a strong random password with user-defined length.
    ```bash
    python mood_bot.py
 
+# 📝 Word Counter
+
+This is a simple Python script that counts the number of words in a given sentence. It's great for beginners learning about strings, functions, and basic input/output in Python.
+
+---
+
+## 📌 Features
+
+- Splits a sentence into words
+- Counts the number of words accurately
+- Easy to modify or extend (e.g., read from user input or a file)
+
+---
+
+## 🧠 Concepts Used
+
+- String manipulation (`.split()`)
+- Functions
+- Basic input/output
+- Conditional execution with `if __name__ == "__main__"`
+
+---
+
+## 🚀 How to Run
+
+1. Make sure Python is installed on your system.
+2. Clone this repo or copy the script to your machine.
+3. Run the script:
+   ```bash
+   python word_counter.py
+   
+
 
 
 
