@@ -1,3 +1,5 @@
+# add a Readme to it or just update the one for mini projects
+
 import time
 from decimal import Decimal, getcontext
 
