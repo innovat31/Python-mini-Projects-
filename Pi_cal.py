@@ -1,8 +1,10 @@
+
 # add a Readme to it or just update the one for mini projects
 
 import time
 from decimal import Decimal, getcontext
 
+# Add to the library
 
 def compute_pi_chudnovsky(precision):
     getcontext().prec = precision + 5
@@ -29,6 +31,7 @@ def compute_pi_leibniz(terms):
     pi *= 4
     return str(+pi)
 
+# License krde aur Name alphabetically dalna
 
 def benchmark(func, *args):
     start = time.time()
@@ -79,3 +82,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+# Mini Project by Parth Magar
+# F20013278
